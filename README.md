@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stratiev
+- 👋 Hi, my name is Stan.
 - 👀 I’m interested in finance, derivative pricing, crypto, algotrading and web3
 - 🌱 I’m currently learning how to price interest rate derivatives.
 

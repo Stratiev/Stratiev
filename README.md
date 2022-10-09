@@ -1,11 +1,11 @@
 👋 Hi, my name is Stan. I am
 
-- 📚 a former theoretical physicist
-- ⌨️ a vim enthusiast
-- 👀 interested in finance, derivative pricing, crypto, algotrading and web3.
-- 🏦 currently working as a model validation quant at Deutsche Bank.
-- 🐍 former Python Developer for Move Digital AG, where I worked on a market events detection software.
-- 🌱 trying to fit RNNs to generated data in my free time. The goal is to reproduce fundamental features of the underlying process which generates the data.
+- 📚 a former theoretical physicist,
+- ⌨️ a vim enthusiast,
+- 👀 interested in finance, derivative pricing, crypto, algotrading and web3,
+- 🏦 currently working as a model validation quant at Deutsche Bank,
+- 🐍 former Python Developer for Move Digital AG, where I worked on a market events detection software,
+- 🌱 trying to fit RNNs to generated data in my free time. The goal is to reproduce fundamental features of the underlying process which generates the data,
 - 🤖 trying to build a functional trading bot on UniSwap.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

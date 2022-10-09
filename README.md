@@ -6,7 +6,7 @@
 - 🏦 currently working as a model validation quant in Deutsche Bank,
 - 🐍 a former Python Developer for Move Digital AG, where I worked on a market event detection software,
 - 📈 fitting [RNNs](https://en.wikipedia.org/wiki/Recurrent_neural_network) to generated data in my free time,
-- 🤖 building a trading bot on UniSwap.
+- 🤖 building a trading bot on [UniSwap](https://uniswap.org/).
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)

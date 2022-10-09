@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Stan.
-- I hold a PhD in Theoretical Physics.
+- 📚 I hold a PhD in Theoretical Physics.
 - 👀 I’m interested in finance, derivative pricing, crypto, algotrading and web3.
 - 🌱 I’m currently working as a model validation quant at Deutsche Bank.
 - I worked as a Python Developer for Move Digital AG on a market events detection software.

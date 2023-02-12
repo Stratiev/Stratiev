@@ -3,7 +3,8 @@
 - 📚 a former theoretical physicist,
 - ⌨️ a vim enthusiast,
 - 👀 interested in finance, derivative pricing, crypto, algotrading and web3,
-- 🏦 currently working as a model validation quant in Deutsche Bank,
+- ⚽️ currently working as a quant/ML engineer for sports betting at Kambi, 
+- 🏦 a former model validation quant in Deutsche Bank,
 - 🐍 a former Python Developer for Move Digital AG, where I worked on a market event detection software,
 - 📈 fitting [RNNs](https://en.wikipedia.org/wiki/Recurrent_neural_network) to generated data in my free time,
 - 🤖 building a trading bot on [UniSwap](https://uniswap.org/).
